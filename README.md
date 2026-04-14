@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INFO3180 VueJS and Flask Starter
 
 This template should help get you started developing with Vue 3 on the frontend and Flask as an API on the backend.
@@ -29,6 +30,10 @@ npm run build
 ```
 
 ## Start Flask API
+=======
+# flask_starter
+Starter code for a new Flask Application
+>>>>>>> 894dfe9ee2c179ee44904e2f3251831aaf09e947
 
 Remember to always create a virtual environment and install the packages in your requirements file
 
